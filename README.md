@@ -1,8 +1,10 @@
 # Fake chat using Stream Builder
 
-This project demonstrate usage of Stream builder. User can press button to send mesage and display using steam builder wihcl listen to incomming message. This project is using **Faker** library to receive fake messages.
+This project demonstrate usage of Stream builder. User can press button to send mesage and display using steam builder wihcl listen to incomming message. This project is using **Faker** library to receive fake messages. You can fork this project and can learn how Stream builder listen to their stream and give response to UI.
 
 
+# Screen shots
+<img src="https://github.com/jaykishan-sewak999/flutter-chat-stream-builder/blob/main/images/Screenshot_1.png" width="300"> <img src="https://github.com/jaykishan-sewak999/flutter-chat-stream-builder/blob/main/images/Screenshot_2.png" width="300"> 
 
 License
 =======
